@@ -58,12 +58,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=ankushshaw-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <a href="https://github.com/Pranesh-2005/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=ankushshaw-dev" />
-</a>
-<a href="https://github.com/Pranesh-2005/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ankushshaw-dev&layout=compact&langs_count=8&card_width=320" />
-</a>
+  <img width=390 src="https://github-readme-stats-fast.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 <br/><br/>
